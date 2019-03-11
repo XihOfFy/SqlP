@@ -17,6 +17,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 /*sql test*/
+// 222222
 public class MainActivity extends Activity {
     private Handler handler=new Handler(new Handler.Callback() {
         @Override
